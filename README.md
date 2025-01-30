@@ -1,6 +1,6 @@
 # APE WEBSITE
 
-APE Website using the (CS161 Template)[template.cs161.org]. Template originally developed by Peyrin, APE website developed + maintained by IEEE Technical Operations Instructional Support & Infrastructure Group
+APE Website using the [CS161 Template](template.cs161.org). Template originally developed by Peyrin, APE website developed + maintained by IEEE Technical Operations Instructional Support & Infrastructure Group
 
 ## General Instructions
 
