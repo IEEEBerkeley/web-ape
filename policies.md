@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Course Info
+title: Policies
 nav_exclude: false
-description: Course Info
+description: Course policies and information.
 ---
 
 # Course Info

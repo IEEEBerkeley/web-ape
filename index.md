@@ -8,11 +8,29 @@ seo:
   name: Berkeley IEEE APE
 ---
 
-# Advanced PCB Engineering (APE)
-{:.no_toc}
+# Advanced PCB Engineering (APE) [Spring 2025]
+<!-- {:.no_toc} -->
+
+{%- if site.under_construction -%}
+<p class="warning">
+This site is under construction. All dates and policies are tentative until this message goes away.
+</p>
+{%- endif -%}
+
+{%- if site.waitlist_warning -%}
+<p class="warning">
+If you're currently on the waitlist, or have any other course-related logistics questions, please take a look at our <a href="{{ site.baseurl }}/policies/">Course Policies</a> prior to contacting course staff.
+</p>
+{%- endif -%}
+
+{%- if site.outdated -%}
+<p class="warning">
+This website contains materials from a past semester. Information, assignments, and announcements may no longer be relevant. Please refer to the <a href="https://template.cs161.org">current semester's site</a> for up-to-date content.
+</p>
+{%- endif -%}
 
 **Lecture:** 8-10PM TuTh, Cory 125\
-[Enrollment](http://berkie.ee/ape-sp25-apply) | [Lab Checkoff Form](https://forms.gle/9t4jXXqQexWVYMTw5?ref=ieee.berkeley.edu) | [Lab Resources](https://drive.google.com/drive/folders/1p97kdv7-6Jbum-YiwUoHo9PsbTBzvS1a?usp=sharing&ref=ieee.berkeley.edu)
+[Enrollment](http://berkie.ee/ape-sp25-apply)
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>
