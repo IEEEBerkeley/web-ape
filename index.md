@@ -18,72 +18,65 @@ seo:
     <tbody><tr>
       <th style="width: 5%;">Week</th>
       <th style="width: 35%;">Topic</th> 
-      <th style="width: 15%;">Reference</th>
+      <th style="width: 15%;">Helpful Links</th>
       <th style="width: 15%;">Lab</th>
       <th style="width: 15%;">Lab Checkoff Due</th>
       <th style="width: 15%;">Project Checkpoint</th>
     </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>1</strong> <br> 
-        1/29<br>1/30
+        9/12
     </td>
     
     <td style="text-align: left;">
-        <b>Intro to PCB and Schematics</b><br><br>
-        Intro to the class, PCBs, KiCad, and using KiCad's schematic editor.
+        <strong>Intro to Altium</strong><br><br>
+        Intro to the class, Altium, and key tools and plugins required for the class content. 
     </td>
     
     <td>
         <ul>
-        	<li><a href="https://docs.google.com/presentation/d/1_WpjAtmyzuS9GUMBTAqdr_m3CKrjq7B2jTPNEdKDj6Q/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a>
-            </li>
-            <li><a href="https://ieee.berkeley.edu/hope-intro/">Reading (Intro to PCBs)</a>
-            </li> 
-            <li><a href="https://ieee.berkeley.edu/hope-rd-schematics/">Reading (Schematics)</a>
+        	<li><a href="https://docs.google.com/presentation/d/1Er_3XXvGT4f94rDUYZfg1uGY670_WDn37x3HIVv7Zvs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
             </li> 
         </ul>
     </td>
     
     <td class="lab">
  
-            <a href="https://ieee.berkeley.edu/hope-kicad-install/"> Install KiCad</a><br><br>
-            <a href="https://ieee.berkeley.edu/hope-lab-1-light/">Light Sensor Schematic</a>
+            <a href="https://www.altium.com/education/students?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> Altium Access Instructions</a><br><br>
+            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Introduction to Altium</a>
         
     </td>
-
-    <td>
-        Intro to HOPE Quiz - Bcourses
+	<td>
     </td>
     <td>
-        <a href="https://docs.google.com/document/d/1smVeWLNiplKkxcA6GZ_3y53MKBoSkndNkYT-nEIYHTI/edit?ref=ieee.berkeley.edu">Project Logistics</a>
+        <a href="https://docs.google.com/document/d/1smVeWLNiplKkxcA6GZ_3y53MKBoSkndNkYT-nEIYHTI/edit?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Logistics</a>
         <br>
         <br>
-        <a href="https://docs.google.com/spreadsheets/d/1ZZAnW61lbqi8A5PHymeQs3MktsaBvQEssZroThjktFo/edit?usp=sharing&amp;ref=ieee.berkeley.edu"> BOM Template</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ZZAnW61lbqi8A5PHymeQs3MktsaBvQEssZroThjktFo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> BOM Template</a>
     </td>
     
-</tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
+</tr>                                      <!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>2</strong> <br> 
-        2/5<br>2/6
+        9/19
     </td>
     <td style="text-align: left;">
-        <b>Footprints and Layout</b><br><br>
-        Schematics to physical layout. Footprints, basic placement, and routing. 
+        <strong>Part Selection,  Intro to Advanced Schematics - Filters and Basic Analog Design
+</strong><br><br>
+        Covering considerations for part selection beyond the base electrical rules. Exploration of analog design fundamentals within schematic creation. 
     </td>
     <td>
         <ul>
             <li>
-        <a href="https://docs.google.com/presentation/d/1ZEYT3n4YUe5rT5fIwE1vpuHBZgOFiZS5qvi10xDh4Ac/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a> </li>
-            <li><a href="https://ieee.berkeley.edu/hope-rd-schematics/">Reading (Schematics)</a></li>
+        <a href="https://docs.google.com/presentation/d/1GYEfiXVO_arjcQqJh56IxN-oNgZTE3PVS1cfQrrAd6M/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> </li>
         </ul>
     </td>
     <td class="lab"> 
-        <a href="https://ieee.berkeley.edu/hope-light-sensor-digikey-search/">Light Sensor Components</a><br><br>
-        <a href="https://ieee.berkeley.edu/hope-lab-2-layout/"> Light Sensor Layout</a>
+        Continue Introduction to Altium
     </td>
     	
     <td>
-        Light Sensor Schematic
+        
     </td>
     <td>
         
@@ -91,94 +84,100 @@ seo:
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>3</strong> <br> 
-        2/12<br>2/13
+        9/26
     </td>
     <td style="text-align: left;">
-               <b>Understanding Components</b><br><br>
-        Real components to their symbol and footprint.
+               <strong>Advanced Schematics, Digital Design, Data Buses and Protocols
+</strong><br><br>
+        Exploring information is encoded, translated, and transported at high speeds and the key issues of high-speed transmissions. 
     </td>
     	
     <td>
         <ul>
-            <li><a href="https://docs.google.com/presentation/d/1O05Crc2QumDudakWkuBr-LM2nKU485MrZpWf1tg22tM/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a> </li>
+            <li>
+                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> 
+            </li>
         </ul>
     </td>
     <td class="lab">
-        <a href="https://ieee.berkeley.edu/usb-charger-components">USB Charger Components</a>
+        <a href="https://docs.google.com/presentation/d/1e-vf_CMKmzh4Jmfp3zO7D2jMCQSCjbxdgUfLyfq2gag/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Digital Communication and Signal Integrity</a>
     </td>
     <td>
-        Light Sensor Components+Layout
+        Introduction to Altium
     </td>
     <td>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>4</strong> <br> 
-        2/19<br>2/20
+        10/3
     </td>
     <td style="text-align: left;">
-        <b>PCB Requirements</b><br><br>
-        Overview of the PCB design and manufacturing process, and how it relates to engineering requirements.
+        <strong>Advanced Schematics, High Power Circuit Design
+</strong><br><br>
+        Understanding key principles to develop systems designed to accomodate high power draws. 
         
     </td>
     <td>
         <ul>
-            <li><a href="https://docs.google.com/presentation/d/1szEkc9CNWQVS2_0T3ZBreltsSnQH1pim4ilX3dekydc/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a></li>
-            <li><a href="https://docs.google.com/presentation/d/1_LhTxAqtXAgTtaF7BMxn-zAdomglfNoVxemuDgUhpzw/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Symbol Creation Slides</a></li>
+            <li><a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a></li>
         </ul>
     </td>
     <td class="lab">
-                <a href="https://ieee.berkeley.edu/usb-charger-part1/">USB Charger Schematic</a>
+          Continue Digital Communication and Signal Integrity
     </td>
     <td>
-        USB Charger Components
+        
     </td>
     <td>
-        <a href="https://forms.gle/LzHeeZHy7nEBGzLN6?ref=ieee.berkeley.edu">Groups Due 2/21</a> <br>(2 people minimum)<br>
+        <a href="https://forms.gle/CHwDA3xCmUMSD9Cr9?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>5</strong> <br> 
-        2/26<br>2/27
+        10/10
     </td>
     <td style="text-align: left;">
-        <b>Microcontroller Basics</b><br><br>
-        Introduction to microcontrollers, common features, and basic tips on adding them to PCBs
+        <strong> Advanced Schematic to Layout: High Power design and Thermal Management</strong><br><br>
+        Designing layouts optimized for high-voltage and high-current applications. Develop understanding of thermal implications of high-power designs and best practices to mitigate them. 
     </td>
     <td>
          <ul>
-            <li><a href="https://docs.google.com/presentation/d/1CJfPpZ0wZff7xSfjeDne1GJ4E7e8GdqBduB-JG1Kv68/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a></li>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1k7tmrHcrFgW7kixzW11JC486pO7Q-0EGscT4Pxq_YdQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+             </li>
         </ul>
     </td>
     <td class="lab">
-        <a href="https://ieee.berkeley.edu/usb-charger-layout/">USB Charger Layout</a>
+        <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">High Power Design and Thermal Management</a>
     </td>
     <td>
-        USB Charger Schematic
+        Digital Communication and Signal Integrity
     </td>
     <td>
-<a href="http://berkie.ee/hope-fa24-project-proposal?ref=ieee.berkeley.edu">Proposal Due 2/28</a> 
+<a href="https://forms.gle/9szte8dwccvB1bLK9?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>6</strong> <br> 
-        3/5<br>3/6
+        10/17
     </td>
     <td style="text-align: left; line-height: 30px;">
-        <b>Assembly and Soldering</b><br><br>
-        Practical assembly and soldering skills.
+        <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
+        How to route high-speed signals, differential pairs, and implications of vias, board parasitics, and other physical factors on signal integrity. 
     </td>
     <td>
         <ul>
-            <li><a href="https://docs.google.com/presentation/d/1UOW9OISqjNoI4p-HWpmuwn0rZM6dTMwDFNixltQbm-8/edit?ref=ieee.berkeley.edu">Slides</a></li>
-            <li><a href="https://ieee.berkeley.edu/footprint-creation/"> Creating Footprints </a></li>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1_ZCl7IMLuN0Ivs6biHY56lNsjGSdFlnlNlFaaMdNc_w/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+            </li>
         </ul>
     </td>
     <td class="lab">
-		Soldering Practice
+		Continue High Power Design and Thermal Management
     </td>
     <td>
-        USB Charger Layout
+        
     </td>
     <td>
         Proposal Review
@@ -186,36 +185,47 @@ seo:
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>7</strong> <br> 
-        3/12<br>3/13
+        10/24
     </td>
     <td style="text-align: left;">
-        <strong>USB Hands-On Experience</strong><br><br>
-        Assemble a PCB based on the USB Charger lab, and use it to charge your phone. 
+        <strong>Advanced Layout + RF Design
+ 1</strong><br><br>
+        Introduction to transmission line theory, differential pairs, impedance matching and other key topics.
     </td>
     <td>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> 
+            </li>
+        </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/10QwwdUPcAvdNy7LkakU-zVrh70OtulW7V5JNu-0g_cg/edit?ref=ieee.berkeley.edu#slide=id.gcb501ed038_0_0">USB Charger Hands-On Instructions</a><br>
+        <a href="https://docs.google.com/presentation/d/1oG2QbuY-yP7Gn1UeEhZaj7rBdRXlo90YnRRdU_zpBOI/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">EMI Considerations and RF Design</a><br>
     </td>
     <td>
+        High Power Design and Thermal Management
     </td>
     <td>
-        Project BOM &amp; Schematic Due 3/14
+        Project BOM &amp; Schematic Due [TBD]
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>8</strong> <br> 
-        3/19<br>3/20
+        10/31
     </td>
     <td style="text-align: left;">
-        <b>Advanced Layout and Passives</b><br><br>
-        General layout process and overview of concerns. Non-ideal passives. 
+        <strong>Advanced Layout + RF Design 2</strong><br><br>
+        Exploration of practical RF design. 
     </td>
     <td>
-        <ul><li><a href="https://docs.google.com/presentation/d/12JF1bfG0X4mbw5ZZFWQvI6EWk4TB9M_f-vcO1WBV-I8/edit?ref=ieee.berkeley.edu#slide=id.g11f980f9a13_1_191">Slides</a></li>
-        <li><!--<a href="https://ieee.berkeley.edu/hope-assembly/">Extra Videos</a>--> Extra Videos</li></ul>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+            </li>
+        </ul>
     </td>
     <td class="lab">
+        Continue EMI Considerations and RF Design
     </td>
     <td>
     </td>
@@ -225,34 +235,41 @@ seo:
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>9</strong> <br> 
-        4/2<br>4/3
+       11/7
     </td>
     <td style="text-align: left;">
-        <b>Project Design Review</b>
+        <strong> Design Reviews
+</strong> <br> <br>
+    In-class review of APE student projects. 
     </td>
+    
     <td>
+        
     </td>
     <td class="lab">
 Project Design Review in Class<br>
-        <a href="https://ieee.berkeley.edu/hope-project-logistics/">Design Review Requirements</a>
+        <a href="" target="_blank" rel="noopener noreferrer">Design Review Requirements {}</a>
     </td>
     <td>
+        EMI Considerations and RF Design
     </td>
     <td>
-        Layout Due 4/4
+        Layout Due [TBD]
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>10</strong> <br> 
-        4/9<br>4/10
+        11/14
     </td>
     <td style="text-align: left;">
-        <b>Ordering, Testing, and Bringup</b><br><br>
-        The last bits of what you need to get a working PCB. 
+        <strong>Advanced Mechanical Design and Integration</strong><br><br>
+         Exploring PCB design in constrained environments and PCBs as mechanical and structural elements. 
+        <br><br>
+        
     </td>
     <td>
         <ul><li>
-        <a href="https://docs.google.com/presentation/d/1P7q-aZrW74vWJZ5W2cMZ2pb7XZuToVQ3T6C_J3QnbIw/edit?ref=ieee.berkeley.edu">Slides</a>
+        <a href="https://docs.google.com/presentation/d/1jQytY2FV7XKv-XxSfWle1sIAPW4L4BjP4bUtwZaFObs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
 		</li></ul>
     </td>
     <td class="lab">
@@ -261,26 +278,28 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td>
-        <strong>FINAL PCB files due 4/10 (Thursday)</strong>
+        <strong>FINAL PCB files due 11/14 (Thursday)</strong>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>11</strong> <br> 
-        4/16<br>4/17
+       11/21
     </td>
     <td style="text-align: left;">
-        <b>PCB Manufacturing</b><br><br>
-        The PCB manufacturing process, and how it affects layout. Outputs for manufacturing. 
+        <strong>Fun Topics</strong><br><br>
+         Exploring other advanced design topics, such as Altium AutoRoute, Ethernet, RS485, PCB Antenna Design, DDR Memory, Flex PCB Design, and kW Power Designs
+        <br><br>
+        
     </td>
     <td>
         <ul>
-            <li><a href="https://docs.google.com/presentation/d/1gijMn5mIbhD0eUVxNSDjSfw6dI_Jonb3ylOAnf0B87k/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a></li>
-            <li><a href="https://ieee.berkeley.edu/hope-improving-your-layouts/">Reading (Layout Tips)</a></li>
-            <li><a href="https://ieee.berkeley.edu/hope-pcb-manufacturing/">Video</a></li>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1yO71BZQUxBgWhOdOox-WL6dquUpsAeAJgOaeZSyhHOQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides </a>
+            </li>
         </ul>
     </td>
     <td class="lab">
-
+		<a href="https://docs.google.com/presentation/d/15AqJwSUtt9LWn0eLjsottJbB2lPHdLmAKXlH797ckB4/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Constraint-Based Mechanical Design</a><br>
                 
     </td>
     <td>
@@ -291,22 +310,21 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>12</strong> <br> 
-        4/23<br>4/24
+        12/5
     </td>
     <td style="text-align: left;">
-        <strong>Trinket Hands-On Lab</strong><br><br>
-        In this hands-on lab, you will build and test an interactive trinket that senses touch, temperature, and distance.
+        <strong>Guest Lecture TBA</strong><br><br>
+        
     </td>
     <td>
             <ul><li>
-        <a href="https://docs.google.com/presentation/d/1bOsTk5C67lthT3bNcFUVJ-5W1JC66FXKLbewiVcJpm0/edit?usp=sharing&amp;ref=ieee.berkeley.edu">Slides</a>
+        <a href="" target="_blank" rel="noopener noreferrer">Slides {TBA}</a>
 		</li></ul>
     </td>
     <td class="lab">
-	<a href="https://ieee.berkeley.edu/hope-trinket-lab/">Trinket Lab</a>
     </td>
     <td>
-        Trinket Prelab due
+        Constraint-Based Mechanical Design
     </td>
     <td>
         Project Assembly
@@ -314,10 +332,10 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>13</strong> <br> 
-        4/30<br>5/1
+        12/12
     </td>
     <td style="text-align: left;">
-        <b>Guest Lecture</b>
+        <strong>Project Presentations</strong>
     </td>
     <td>
     </td>
@@ -327,20 +345,4 @@ Project Design Review in Class<br>
     </td>
     <td>
     </td>
-</tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
-    <td class="week">
-        <strong>14</strong> <br> 
-        5/9
-    </td>
-    <td style="text-align: left;">
-        <b>Final Project Showcase</b>
-    </td>
-    <td>
-    </td>
-    <td class="lab">
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-</tr><!--kg-card-end: html--><!--kg-card-begin: html--></tbody></table>
+</tr><!--kg-card-end: html--></tbody></table>
