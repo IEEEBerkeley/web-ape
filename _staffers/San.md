@@ -1,7 +1,7 @@
 ---
-name: Mihai Tudor
+name: San Vu
 role: Instructor
-photo: mihai_tudor.webp
+photo: evanbot.webp
 ---
 
 I love teaching!

@@ -8,7 +8,7 @@ seo:
   name: Berkeley IEEE APE
 ---
 
-# Advanced PCB Engineering (APE) [Spring 2025]
+# Advanced PCB Engineering (APE) [Fall 2025]
 <!-- {:.no_toc} -->
 
 {%- if site.under_construction -%}
@@ -29,8 +29,8 @@ This website contains materials from a past semester. Information, assignments, 
 </p>
 {%- endif -%}
 
-**Lecture:** 8-10PM TuTh, Cory 125\
-[Enrollment](http://berkie.ee/ape-sp25-apply)
+**Lecture:** 8-10PM Tu, Cory 125\
+[Enrollment](http://berkie.ee/ape-fa25-apply)
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>
@@ -43,7 +43,7 @@ This website contains materials from a past semester. Information, assignments, 
     </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>1</strong> <br> 
-        9/12
+        9/2
     </td>
     
     <td style="text-align: left;">
@@ -76,7 +76,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr>                                      <!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>2</strong> <br> 
-        9/19
+        9/9
     </td>
     <td style="text-align: left;">
         <strong>Part Selection,  Intro to Advanced Schematics - Filters and Basic Analog Design
@@ -102,7 +102,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>3</strong> <br> 
-        9/26
+        9/16
     </td>
     <td style="text-align: left;">
                <strong>Advanced Schematics, Digital Design, Data Buses and Protocols
@@ -128,7 +128,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>4</strong> <br> 
-        10/3
+        9/23
     </td>
     <td style="text-align: left;">
         <strong>Advanced Schematics, High Power Circuit Design
@@ -153,7 +153,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>5</strong> <br> 
-        10/10
+        9/30
     </td>
     <td style="text-align: left;">
         <strong> Advanced Schematic to Layout: High Power design and Thermal Management</strong><br><br>
@@ -178,7 +178,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>6</strong> <br> 
-        10/17
+        10/7
     </td>
     <td style="text-align: left; line-height: 30px;">
         <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
@@ -203,7 +203,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>7</strong> <br> 
-        10/24
+        10/14
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design
@@ -229,7 +229,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>8</strong> <br> 
-        10/31
+        10/21
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design 2</strong><br><br>
@@ -253,7 +253,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>9</strong> <br> 
-       11/7
+       10/28
     </td>
     <td style="text-align: left;">
         <strong> Design Reviews
@@ -277,7 +277,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>10</strong> <br> 
-        11/14
+        11/4
     </td>
     <td style="text-align: left;">
         <strong>Advanced Mechanical Design and Integration</strong><br><br>
@@ -296,12 +296,12 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td>
-        <strong>FINAL PCB files due 11/14 (Thursday)</strong>
+        <strong>FINAL PCB files due [11/4] (Tuesday)</strong>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>11</strong> <br> 
-       11/21
+       11/11
     </td>
     <td style="text-align: left;">
         <strong>Fun Topics</strong><br><br>
@@ -328,7 +328,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>12</strong> <br> 
-        12/5
+        11/18
     </td>
     <td style="text-align: left;">
         <strong>Guest Lecture TBA</strong><br><br>
@@ -350,7 +350,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>13</strong> <br> 
-        12/12
+        12/9
     </td>
     <td style="text-align: left;">
         <strong>Project Presentations</strong>

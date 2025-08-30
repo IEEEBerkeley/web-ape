@@ -9,24 +9,18 @@ description: Potentially helpful resources for students
 
 ## Project Links
 
-[Design Reference Doc](https://docs.google.com/document/d/1sA1MmZkygvkN0kvH0_EiXm4IRMi5ilCOcb7CaAVOmxY/edit?tab=t.0#heading=h.s0qhnjil5ztq)
-
-[Project Group Search Form](http://berkie.ee/hope-sp25-group-search)
-
-[Project Group Submission Form](http://berkie.ee/1lmq2o)
-
-[Project Proposal Form](http://berkie.ee/hope-sp25-project-group)
+Check back later!
 
 ## Course Links
 
-[Extension Request Form](http://berkie.ee/hope-sp25-extension)
+[Extension Request Form](https://docs.google.com/document/d/1CdxfcXsvoL-aMWkG8YlPuyAOb3MjzHpzyLjSFaty43k/edit?usp=sharing)
 
-[HOPE bCourses](https://bcourses.berkeley.edu/courses/1541379)
+[APE bCourses]()
 
 ## Other Forms
 
-[Anonymous Feedback Form](http://berkie.ee/hope-sp25-anonymous-comments)
+[Anonymous Feedback Form](https://docs.google.com/document/d/1CdxfcXsvoL-aMWkG8YlPuyAOb3MjzHpzyLjSFaty43k/edit?usp=sharing)
 
-[HOPE Staff Interest Form](http://berkie.ee/hope-sp25-staff-interest)
+[APE Staff Interest Form](https://docs.google.com/document/d/1CdxfcXsvoL-aMWkG8YlPuyAOb3MjzHpzyLjSFaty43k/edit?usp=sharing)
 
 
