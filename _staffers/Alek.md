@@ -1,7 +1,7 @@
 ---
 name: Alek Norman
 role: Instructor
-photo: 
+photo: alek_norman.webp
 ---
 
-I love teaching!
+Circuits, circuits, & more circuits

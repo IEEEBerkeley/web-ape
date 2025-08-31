@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policies
+title: Course Info
 nav_exclude: false
 description: Course policies and information.
 ---
@@ -13,7 +13,7 @@ You can find the syllabus [HERE](https://docs.google.com/document/d/1CdxfcXsvoL-
 
 ### Enrolling in APE
 
-Students who are interested in signing up for APE in Spring 2025 should fill out [THIS](https://berkie.ee/ape-fa25-apply?ref=ieee.berkeley.edu) enrollment form.
+Students who are interested in signing up for APE in Fall 2025 should fill out [THIS](https://berkie.ee/ape-fa25-apply?ref=ieee.berkeley.edu) enrollment form.
 
 Please email us if you are a concurrent enrollment student- we prioritize matriculated UC Berkeley students. Space permitting, however, concurrent enrollment students are welcome to take APE.
 
@@ -23,7 +23,7 @@ We offer APE as an in-person class this semester. We have a single section on Tu
 
 ### Prerequisites
 
-At least one upper division course with a circuit design element, such as EE105, EE113A/B, EE140 (240A), EE142, EECS151 (251A), or EE194: Tapeout/Bringup, will provide expected knowledge. HOPE or previous PCB design experience is also highly recommended. If you have completed alternative coursework or have experience please let us know in the application form! Those unsure are welcome to email us (the class is not limited to EECS students!).
+At least one upper division course with a circuit design element, such as EE105, EE108, EE113A/B, EE140 (240A), EE142 (242A), EECS151 (251A), or EE194/290: Tapeout/Bringup, will provide expected knowledge. HOPE or previous PCB design experience is also highly recommended. If you have completed alternative coursework or have experience please let us know in the application form! Those unsure are welcome to email us (the class is not limited to EECS students!).
 
 
 ### Office Hours
@@ -33,3 +33,5 @@ For students that need extra support time, we will hold staff office hours at  S
 ### Contact
 
 Please email us at [ape@ieee.berkeley.edu](ape@ieee.berkeley.edu)
+
+### Past Project Showcases

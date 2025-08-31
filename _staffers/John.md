@@ -1,7 +1,8 @@
 ---
 name: John Lomax
-role: Director
-photo: evanbot.webp
+role: Instructor
+photo: john_lomax.webp
 ---
 
-I love teaching!
+5th-Year EECS MS
+Drones and Bringup, Bringup and Drones!
