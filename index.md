@@ -61,7 +61,7 @@ This website contains materials from a past semester. Information, assignments, 
     <td class="lab">
  
             <a href="https://www.altium.com/education/students?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> Altium Access Instructions</a><br><br>
-            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Introduction to Altium</a>
+            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Introduction to Altium</a><br><br>
             <a href="https://docs.google.com/document/d/1n7WUi9RVcNrMyvJe42HEMZrT90SFxaEiMp7O50SOR0A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Keybind Cheatsheet</a>
 
     </td>
