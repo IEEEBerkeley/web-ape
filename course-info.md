@@ -19,7 +19,7 @@ Please email us if you are a concurrent enrollment student- we prioritize matric
 
 The first day of class will be 9/2.
 
-We offer APE as an in-person class this semester. We have a single section on Tuesday in Cory 125.
+We offer APE as an in-person class. We have a single section on Tuesday in Cory 125.
 
 ### Prerequisites
 
@@ -35,3 +35,5 @@ For students that need extra support time, we will hold staff office hours at  S
 Please email us at [ape@ieee.berkeley.edu](ape@ieee.berkeley.edu)
 
 ### Past Project Showcases
+
+[Spring 2025 Showcase](https://sites.google.com/berkeley.edu/ape-sp25-project-showcase/home)

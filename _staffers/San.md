@@ -1,7 +1,7 @@
 ---
 name: San Vu
 role: Instructor
-photo: evanbot.webp
+photo: san_vu.webp
 ---
 
-I love teaching!
+EEnthusiest that is happy to be here
