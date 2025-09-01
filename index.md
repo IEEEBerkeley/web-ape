@@ -68,7 +68,7 @@ This website contains materials from a past semester. Information, assignments, 
 	<td>
     </td>
     <td>
-        <a href="https://docs.google.com/document/d/1smVeWLNiplKkxcA6GZ_3y53MKBoSkndNkYT-nEIYHTI/edit?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Logistics</a>
+        <a href="http://berkie.ee/ape-fa25-project-spec" target="_blank" rel="noopener noreferrer">Project Logistics</a>
         <br>
         <br>
         <a href="https://docs.google.com/spreadsheets/d/1ZZAnW61lbqi8A5PHymeQs3MktsaBvQEssZroThjktFo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> BOM Template</a>
@@ -149,7 +149,7 @@ This website contains materials from a past semester. Information, assignments, 
         
     </td>
     <td>
-        <a href="https://forms.gle/CHwDA3xCmUMSD9Cr9?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
+        <a href="http://berkie.ee/ape-fa25-proj-group" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -174,7 +174,7 @@ This website contains materials from a past semester. Information, assignments, 
         Digital Communication and Signal Integrity
     </td>
     <td>
-<a href="https://forms.gle/9szte8dwccvB1bLK9?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
+<a href="http://berkie.ee/ape-fa25-proj-proposal" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -305,6 +305,26 @@ Project Design Review in Class<br>
        11/11
     </td>
     <td style="text-align: left;">
+        <strong>No Class (Administrative Holiday)</strong><br><br>
+        <br><br>
+        
+    </td>
+    <td>
+    </td>
+    <td class="lab">
+                
+    </td>
+    <td>
+    </td>
+    <td>
+        
+    </td>
+</tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
+    <td class="week">
+        <strong>12</strong> <br> 
+        11/18
+    </td>
+    <td style="text-align: left;">
         <strong>Fun Topics</strong><br><br>
          Exploring other advanced design topics, such as Altium AutoRoute, Ethernet, RS485, PCB Antenna Design, DDR Memory, Flex PCB Design, and kW Power Designs
         <br><br>
@@ -320,27 +340,6 @@ Project Design Review in Class<br>
     <td class="lab">
 		<a href="https://docs.google.com/presentation/d/15AqJwSUtt9LWn0eLjsottJbB2lPHdLmAKXlH797ckB4/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Constraint-Based Mechanical Design</a><br>
                 
-    </td>
-    <td>
-    </td>
-    <td>
-        
-    </td>
-</tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
-    <td class="week">
-        <strong>12</strong> <br> 
-        11/18
-    </td>
-    <td style="text-align: left;">
-        <strong>Guest Lecture TBA</strong><br><br>
-        
-    </td>
-    <td>
-            <ul><li>
-        <a href="" target="_blank" rel="noopener noreferrer">Slides {TBA}</a>
-		</li></ul>
-    </td>
-    <td class="lab">
     </td>
     <td>
         Constraint-Based Mechanical Design
