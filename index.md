@@ -168,7 +168,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        Continue Introduction to Altium
+        Continue Power Regulator Circuitry Design and Simulation
     </td>
     <td>
     </td>
