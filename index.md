@@ -53,7 +53,7 @@ This website contains materials from a past semester. Information, assignments, 
     
     <td>
         <ul>
-        	<li><a href="https://docs.google.com/presentation/d/1Er_3XXvGT4f94rDUYZfg1uGY670_WDn37x3HIVv7Zvs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+        	<li><a href="https://docs.google.com/presentation/d/1Er_3XXvGT4f94rDUYZfg1uGY670_WDn37x3HIVv7Zvs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 1 Slides</a>
             </li> 
         </ul>
     </td>
@@ -87,7 +87,7 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
         <ul>
             <li>
-        <a href="https://docs.google.com/presentation/d/1GYEfiXVO_arjcQqJh56IxN-oNgZTE3PVS1cfQrrAd6M/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> </li>
+        <a href="https://docs.google.com/presentation/d/1GYEfiXVO_arjcQqJh56IxN-oNgZTE3PVS1cfQrrAd6M/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 2 Slides</a> </li>
         </ul>
     </td>
     <td class="lab"> 
@@ -114,7 +114,7 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> 
+                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 3 Slides</a> 
             </li>
         </ul>
     </td>
@@ -125,6 +125,7 @@ This website contains materials from a past semester. Information, assignments, 
         Introduction to Altium
     </td>
     <td>
+        <a href="http://berkie.ee/ape-fa25-proj-group" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -139,17 +140,16 @@ This website contains materials from a past semester. Information, assignments, 
     </td>
     <td>
         <ul>
-            <li><a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a></li>
+            <li><a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 4 Slides</a></li>
         </ul>
     </td>
     <td class="lab">
-          Continue Digital Communication and Signal Integrity
+        <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Power Regulator Circuitry Design and Simulation</a>
     </td>
     <td>
-        
+        Digital Communication and Signal Integrity
     </td>
     <td>
-        <a href="http://berkie.ee/ape-fa25-proj-group" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -163,15 +163,14 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
          <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1k7tmrHcrFgW7kixzW11JC486pO7Q-0EGscT4Pxq_YdQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1k7tmrHcrFgW7kixzW11JC486pO7Q-0EGscT4Pxq_YdQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 5 Slides</a>
              </li>
         </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">High Power Design and Thermal Management</a>
+        Continue Introduction to Altium
     </td>
     <td>
-        Digital Communication and Signal Integrity
     </td>
     <td>
 <a href="http://berkie.ee/ape-fa25-proj-proposal" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
