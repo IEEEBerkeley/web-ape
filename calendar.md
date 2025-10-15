@@ -9,4 +9,4 @@ description: Listing of course modules and topics.
 
 <!-- INSERT GOOGLE CALENDAR HERE -->
 
-<p><iframe src="https://calendar.google.com/calendar/embed?src=c_s4uil7pkgt5vga4m700a5nidn4%40group.calendar.google.com&ctz=America%2FLos_Angeles" width="1000" height="1000" style="overflow: hidden;"></iframe></p>
+<p><iframe src="https://calendar.google.com/calendar/u/0?cid=Y18wZDQzN2VkOTE0YTc4NWY5NGQwYzMxOTc3MDcyY2RmMDEwMjk1NTIyNTI1ZDJjMTMwMTFiY2JkZTQ3YTBmN2E1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" width="1000" height="1000" style="overflow: hidden;"></iframe></p>
