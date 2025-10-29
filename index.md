@@ -218,7 +218,6 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/1oG2QbuY-yP7Gn1UeEhZaj7rBdRXlo90YnRRdU_zpBOI/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">EMI Considerations and RF Design</a><br>
     </td>
     <td>
         High Power Design and Thermal Management
@@ -243,7 +242,6 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        Continue EMI Considerations and RF Design
     </td>
     <td>
     </td>
