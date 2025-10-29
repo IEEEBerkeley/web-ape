@@ -256,9 +256,8 @@ This website contains materials from a past semester. Information, assignments, 
        10/28
     </td>
     <td style="text-align: left;">
-        <strong> Design Reviews
+        <strong> Project Work Session
 </strong> <br> <br>
-    In-class review of APE student projects. 
     </td>
     
     <td>
@@ -266,13 +265,11 @@ This website contains materials from a past semester. Information, assignments, 
     </td>
     <td class="lab">
 Project Design Review in Class<br>
-        <a href="" target="_blank" rel="noopener noreferrer">Design Review Requirements {}</a>
     </td>
     <td>
-        EMI Considerations and RF Design
     </td>
     <td>
-        Layout Due [TBD]
+        <b>Layout Due 11/4</b>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -280,18 +277,14 @@ Project Design Review in Class<br>
         11/4
     </td>
     <td style="text-align: left;">
-        <strong>Advanced Mechanical Design and Integration</strong><br><br>
-         Exploring PCB design in constrained environments and PCBs as mechanical and structural elements. 
+        <strong>Design Reviews</strong><br><br>
+            In class review of APE student projects
         <br><br>
         
     </td>
     <td>
-        <ul><li>
-        <a href="https://docs.google.com/presentation/d/1jQytY2FV7XKv-XxSfWle1sIAPW4L4BjP4bUtwZaFObs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
-		</li></ul>
     </td>
     <td class="lab">
-        Project Worksession
     </td>
     <td>
     </td>
@@ -304,7 +297,7 @@ Project Design Review in Class<br>
        11/11
     </td>
     <td style="text-align: left;">
-        <strong>No Class (Administrative Holiday)</strong><br><br>
+        <strong>TBD</strong><br><br>
         <br><br>
         
     </td>
@@ -324,17 +317,12 @@ Project Design Review in Class<br>
         11/18
     </td>
     <td style="text-align: left;">
-        <strong>Fun Topics</strong><br><br>
-         Exploring other advanced design topics, such as Altium AutoRoute, Ethernet, RS485, PCB Antenna Design, DDR Memory, Flex PCB Design, and kW Power Designs
+        <strong>TBD</strong><br><br>
+         Exploring other advanced design topics, such as maybe Altium AutoRoute, Ethernet, RS485, PCB Antenna Design, DDR Memory, Flex PCB Design, and kW Power Designs
         <br><br>
         
     </td>
     <td>
-        <ul>
-            <li>
-                <a href="https://docs.google.com/presentation/d/1yO71BZQUxBgWhOdOox-WL6dquUpsAeAJgOaeZSyhHOQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides </a>
-            </li>
-        </ul>
     </td>
     <td class="lab">
 		<a href="https://docs.google.com/presentation/d/15AqJwSUtt9LWn0eLjsottJbB2lPHdLmAKXlH797ckB4/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Constraint-Based Mechanical Design</a><br>
