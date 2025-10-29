@@ -323,11 +323,8 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td class="lab">
-		<a href="https://docs.google.com/presentation/d/15AqJwSUtt9LWn0eLjsottJbB2lPHdLmAKXlH797ckB4/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Constraint-Based Mechanical Design</a><br>
-                
     </td>
     <td>
-        Constraint-Based Mechanical Design
     </td>
     <td>
         Project Assembly
