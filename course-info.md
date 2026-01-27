@@ -9,21 +9,24 @@ description: Course policies and information.
 
 APE introduces advanced printed circuit board (PCB) design and layout, with a focus on more complex considerations and more nuanced experience with standard tools than the introductory Hands-On PCB Engineering (HOPE) course. It is intended for students with previous PCB design experience (preferably HOPE) and some basic experience with upper division-level circuit design. Students will utilize Altium Designer alongside supporting software and plugins to aid in design and verification of PCBs. Students interested in developing PCBs for class projects, research, or engineering student teams will benefit from this course.
 
-You can find the syllabus [HERE](https://docs.google.com/document/d/1CdxfcXsvoL-aMWkG8YlPuyAOb3MjzHpzyLjSFaty43k/edit?usp=sharing)
+You can find the syllabus [HERE](https://docs.google.com/document/d/1OmuT0KNtPcCBOl_wxE3xbWQctL8guNKrCQKkM4Mp_VY/edit?usp=sharing)
 
 ### Enrolling in APE
 
-Students who are interested in signing up for APE in Fall 2025 should fill out [THIS](https://berkie.ee/ape-fa25-apply?ref=ieee.berkeley.edu) enrollment form.
+Students who are interested in signing up for APE in Spring 2026 should email [ape@ieee.berkeley.edu](ape@ieee.berkeley.edu)
 
-Please email us if you are a concurrent enrollment student- we prioritize matriculated UC Berkeley students. Space permitting, however, concurrent enrollment students are welcome to take APE.
+Please also email us if you are a concurrent enrollment student- we prioritize matriculated UC Berkeley students. Space permitting, however, concurrent enrollment students are welcome to take APE.
 
-The first day of class will be 9/2.
+The first day of class will be 1/27.
 
-We offer APE as an in-person class. We have a single section on Tuesday in Cory 125.
+We offer APE as an in-person class. We have a single section on Tuesday in Cory 125 from 8-10 PM. 
 
 ### Prerequisites
 
-At least one upper division course with a circuit design element, such as EE105, EE108, EE113A/B, EE140 (240A), EE142 (242A), EECS151 (251A), or EE194/290: Tapeout/Bringup, will provide expected knowledge. HOPE or previous PCB design experience is also highly recommended. If you have completed alternative coursework or have experience please let us know in the application form! Those unsure are welcome to email us (the class is not limited to EECS students!).
+Required: HOPE or previous PCB design experience at a similar level. If you have completed alternative coursework or have experience please let us know in the application form! Those unsure are welcome to email us (the class is not limited to EECS students!).
+
+Recommended: at least one upper division course with a circuit design element, such as EE105, EE108, EE113A/B, EE140 (240A), EE142 (242A), EECS151 (251A), or EE194/290: Tapeout/Bringup.
+
 
 
 ### Office Hours

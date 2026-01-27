@@ -8,7 +8,7 @@ seo:
   name: Berkeley IEEE APE
 ---
 
-# Advanced PCB Engineering (APE) [Fall 2025]
+# Advanced PCB Engineering (APE) [Spring 2026]
 <!-- {:.no_toc} -->
 
 {%- if site.under_construction -%}
@@ -30,7 +30,6 @@ This website contains materials from a past semester. Information, assignments, 
 {%- endif -%}
 
 **Lecture:** 8-10PM Tu, Cory 125\
-[Enrollment](http://berkie.ee/ape-fa25-apply)
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>
@@ -43,55 +42,50 @@ This website contains materials from a past semester. Information, assignments, 
     </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>1</strong> <br> 
-        9/2
+        1/27
     </td>
     
     <td style="text-align: left;">
         <strong>Intro to Altium</strong><br><br>
-        Intro to the class, Altium, and key tools and plugins required for the class content. 
+        Intro to the class, logistics, and overview of Altium. 
     </td>
     
     <td>
         <ul>
-        	<li><a href="https://docs.google.com/presentation/d/1Er_3XXvGT4f94rDUYZfg1uGY670_WDn37x3HIVv7Zvs/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 1 Slides</a>
+        	<li><a href="https://docs.google.com/presentation/d/1Er_3XXvGT4f94rDUYZfg1uGY670_WDn37x3HIVv7Zvs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 1: Introduction</a>
             </li> 
         </ul>
     </td>
     
     <td class="lab">
  
-            <a href="https://www.altium.com/education/students?ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> Altium Access Instructions</a><br><br>
-            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Introduction to Altium</a><br><br>
+            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lab 1: Intro to Altium Schematics</a><br><br>
             <a href="https://docs.google.com/document/d/1n7WUi9RVcNrMyvJe42HEMZrT90SFxaEiMp7O50SOR0A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Keybind Cheatsheet</a>
 
     </td>
 	<td>
     </td>
     <td>
-        <a href="http://berkie.ee/ape-fa25-project-spec" target="_blank" rel="noopener noreferrer">Project Logistics</a>
-        <br>
-        <br>
-        <a href="https://docs.google.com/spreadsheets/d/1ZZAnW61lbqi8A5PHymeQs3MktsaBvQEssZroThjktFo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer"> BOM Template</a>
     </td>
     
 </tr>                                      <!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>2</strong> <br> 
-        9/9
+        2/3
     </td>
     <td style="text-align: left;">
-        <strong>Part Selection,  Intro to Advanced Schematics - Filters and Basic Analog Design
+        <strong>PCB Parasitics and Noise
 </strong><br><br>
-        Covering considerations for part selection beyond the base electrical rules. Exploration of analog design fundamentals within schematic creation. 
+        PCB parasitics, trace and via sizing, EMI, ground planes, crosstalk, reflections, switching noise
     </td>
     <td>
         <ul>
             <li>
-        <a href="https://docs.google.com/presentation/d/1GYEfiXVO_arjcQqJh56IxN-oNgZTE3PVS1cfQrrAd6M/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 2 Slides</a> </li>
+        <a href="https://docs.google.com/presentation/d/1LNV7R2GZhx0jwOsVoQm0Pc4N4TguUehJyQuLJv14D3Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 2: Parasitics and Noise</a> </li>
         </ul>
     </td>
     <td class="lab"> 
-        Continue Introduction to Altium
+        Lab 2: Introduction to Altium Layout
     </td>
     	
     <td>
@@ -103,29 +97,28 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>3</strong> <br> 
-        9/16
+        2/10
     </td>
     <td style="text-align: left;">
-               <strong>Advanced Schematics, Digital Design, Data Buses and Protocols
+               <strong>Intro to Analog Design
 </strong><br><br>
-        Exploring information is encoded, translated, and transported at high speeds and the key issues of high-speed transmissions. 
+        Passive and active filters, selecting op-amps based on their characterisitcs, voltage references, charge pumps
     </td>
     	
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 3 Slides</a> 
+                <a href="https://docs.google.com/presentation/d/1GYEfiXVO_arjcQqJh56IxN-oNgZTE3PVS1cfQrrAd6M/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 3: Intro to Analog Design</a> 
             </li>
         </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/1e-vf_CMKmzh4Jmfp3zO7D2jMCQSCjbxdgUfLyfq2gag/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Digital Communication and Signal Integrity</a>
+        
     </td>
     <td>
-        Introduction to Altium
+        Lab 3: Simulating Analog Filters
     </td>
     <td>
-        <a href="http://berkie.ee/ape-fa25-proj-group" target="_blank" rel="noopener noreferrer">Project Groups Due</a> <br>(2 people minimum)<br>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -133,15 +126,12 @@ This website contains materials from a past semester. Information, assignments, 
         9/23
     </td>
     <td style="text-align: left;">
-        <strong>Advanced Schematics, High Power Circuit Design
+        <strong>Everything on this row and below is a lie and not updated!
 </strong><br><br>
         Understanding key principles to develop systems designed to accomodate high power draws. 
         
     </td>
     <td>
-        <ul>
-            <li><a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 4 Slides</a></li>
-        </ul>
     </td>
     <td class="lab">
         <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Power Regulator Circuitry Design and Simulation</a>

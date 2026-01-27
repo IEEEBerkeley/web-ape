@@ -9,24 +9,16 @@ description: Helpful resources for students
 
 ## Project Links
 
-[Project Spec](http://berkie.ee/ape-fa25-project-spec)
-
-[Project Group Form](http://berkie.ee/ape-fa25-proj-group)
-
-[Project Proposal Form](http://berkie.ee/ape-fa25-proj-proposal)
+To be added!
 
 ## Course Links
 
-[Lab Checkoff Form](http://berkie.ee/ape-fa25-lab-checkoff)
-
-[Extension Request Form](http://berkie.ee/ape-fa25-extension-req)
-
-[APE bCourses](https://bcourses.berkeley.edu/courses/1549159)
+[Lab Checkoff Form](https://forms.gle/8N2gxbHQf6kTh3Lx6)
 
 ## Other Forms
 
-[Anonymous Feedback Form](http://berkie.ee/ape-fa25-anon-feedback)
+[Anonymous Feedback Form](https://forms.gle/FdCyjj5jTi1gGFvB7)
 
-[APE Staff Interest Form](http://berkie.ee/ape-fa25-staff-interest)
+[APE Staff Interest Form](https://forms.gle/Weyp7u1w8fkHvJXJ7)
 
 
