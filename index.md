@@ -89,7 +89,7 @@ This website contains materials from a past semester. Information, assignments, 
     </td>
     	
     <td>
-        
+        Lab 1: Intro to Altium Schematics
     </td>
     <td>
         
@@ -113,10 +113,10 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        
+        Lab 3: Simulating Analog Filters
     </td>
     <td>
-        Lab 3: Simulating Analog Filters
+        Lab 2: Introduction to Altium Layout
     </td>
     <td>
     </td>
