@@ -29,7 +29,7 @@ This website contains materials from a past semester. Information, assignments, 
 </p>
 {%- endif -%}
 
-**Lecture:** 8-10PM Tu, Cory 125\
+**Lecture:** 8-10PM Tu, Cory 125
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>
@@ -59,7 +59,7 @@ This website contains materials from a past semester. Information, assignments, 
     
     <td class="lab">
  
-            <a href="https://docs.google.com/presentation/d/1p2-E-jdT5tIeXX5c7qOSWVSRqMDzmIiCIHyKMrU7wZs/edit?usp=sharing%2F&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lab 1: Intro to Altium Schematics</a><br><br>
+            <a href="https://docs.google.com/document/d/1NXnYE1iO9Q7JT91IQWTQs7Ivh06eUPHDaINq1pjokg8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 1: Intro to Altium Schematics</a><br><br>
             <a href="https://docs.google.com/document/d/1n7WUi9RVcNrMyvJe42HEMZrT90SFxaEiMp7O50SOR0A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Keybind Cheatsheet</a>
 
     </td>
@@ -113,7 +113,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        Lab 3: Simulating Analog Filters
+        <a href="https://docs.google.com/document/d/1nbIc_AhKubVGqOqluoBLX2Qj4CzxwDuMh-qYmmRvfmo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 3: Simulating Analog Filters</a>
     </td>
     <td>
         Lab 2: Introduction to Altium Layout
