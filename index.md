@@ -85,7 +85,10 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab"> 
-        Lab 2: Introduction to Altium Layout
+        <ul>
+            <li>
+        <a href="https://docs.google.com/document/d/1oKC2nURpbNFjjGx27X9cDpz_3pp5BdDK9qowyWSTWg8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 2: Introduction to Altium Layout</a> </li>
+        </ul>
     </td>
     	
     <td>
