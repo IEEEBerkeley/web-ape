@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" sizes="64x64 96x96 128x128" href="{{ '/assets/images/ape.png' | relative_url }}">
 <link rel="preload" href="{{ '/assets/css/just-the-docs-dark.css' | relative_url }}" as="style" />
 
 <!-- Intentionally duplicates the default theme stylesheet so there's a fallback when changing themes -->
@@ -51,3 +52,26 @@ function renderKaTeX() {
 }
 </script>
 <script defer src="{{ '/assets/katex/contrib/auto-render.min.js' | relative_url }}" onload="renderKaTeX();"></script>
+
+<script>
+  // Mark syllabus timeline cells with content so CSS can color only filled ones
+  document.addEventListener('DOMContentLoaded', () => {
+    const rows = document.querySelectorAll('#timeline tr');
+    rows.forEach(row => {
+      const cells = row.querySelectorAll('td');
+      if (cells.length >= 6) {
+        const mappings = [
+          { index: 3, cls: 'filled-lab' },
+          { index: 4, cls: 'filled-checkoff' },
+          { index: 5, cls: 'filled-project' },
+        ];
+        mappings.forEach(({ index, cls }) => {
+          const td = cells[index];
+          if (td && td.textContent.trim().length > 0) {
+            td.classList.add(cls);
+          }
+        });
+      }
+    });
+  });
+</script>

@@ -299,3 +299,141 @@ h2.text-delta + ul a, #markdown-toc a {
 }
 
 // End 61C Calendar config
+
+// Branding tweaks: make the ape logo larger in header and sidebar
+.site-logo {
+  img {
+    max-height: 80px;
+    max-width: 80px;
+  }
+}
+
+// Slightly larger favicon hint (browsers will pick best size)
+link[rel="icon"] {
+  width: 64px;
+  height: 64px;
+}
+
+// Homepage hero layout
+.hero-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin: 1rem 0 1.5rem;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  flex: 1 1 320px;
+}
+
+.hero-logo {
+  flex: 0 0 auto;
+  max-height: 110px;
+  max-width: 110px;
+}
+
+.meta-line {
+  margin: 0.25rem 0 0;
+  font-size: 1rem;
+}
+
+@media (max-width: 640px) {
+  .hero-header {
+    align-items: flex-start;
+  }
+  .hero-logo {
+    max-height: 90px;
+    max-width: 90px;
+  }
+}
+
+// Lab buttons (muted neutral palette)
+.lab-button {
+  display: inline-block;
+  padding: 0.65rem 1.1rem;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: linear-gradient(145deg, #f6f7fb, #e9ecf3);
+  color: #2b2f38 !important;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+}
+.lab-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+  border-color: rgba(0,0,0,0.15);
+}
+.lab-button:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+// Timeline color coding
+#timeline {
+  width: 100%;
+  border-collapse: collapse;
+
+  th {
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    font-size: 0.9rem;
+  }
+
+  td, th {
+    border: 1px solid rgba(0,0,0,0.06);
+    vertical-align: top;
+    padding: 0.85rem;
+  }
+
+  td.week {
+    background: #f4f5fb;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  // Apply soft backgrounds only when JS marks the cell as filled
+  td.filled-lab { background: #eaf3ff; }       // Lab
+  td.filled-checkoff { background: #ffecec; }  // Checkoff
+  td.filled-project { background: #f0e8ff; }   // Project
+
+  tr:nth-child(even) td {
+    background-color: rgba(0,0,0,0.01);
+  }
+}
+
+// Dark mode adjustments for timeline and hero
+[data-theme="dark"] {
+  #timeline {
+    td, th {
+      border-color: rgba(255,255,255,0.08);
+    }
+    td.week {
+      background: rgba(255,255,255,0.06);
+    }
+    tr:nth-child(even) td {
+      background-color: rgba(255,255,255,0.03);
+    }
+    td.filled-lab { background: rgba(108, 164, 255, 0.2); }       // Lab
+    td.filled-checkoff { background: rgba(255, 148, 148, 0.2); }  // Checkoff
+    td.filled-project { background: rgba(186, 160, 255, 0.2); }   // Project
+  }
+
+  .hero-logo {
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
+  }
+
+  .lab-button {
+    background: linear-gradient(145deg, #1f2430, #292f3c);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: #f3f5fb !important;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.4);
+  }
+  .lab-button:hover {
+    box-shadow: 0 12px 24px rgba(0,0,0,0.45);
+    border-color: rgba(255,255,255,0.15);
+  }
+}

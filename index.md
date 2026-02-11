@@ -6,9 +6,16 @@ permalink: /:path/
 seo:
   type: Course
   name: Berkeley IEEE APE
+
 ---
 
-# Advanced PCB Engineering (APE) [Spring 2026]
+<div class="hero-header">
+  <div class="hero-text">
+    <h1 class="page-title">Advanced PCB Engineering (APE) – Spring 2026</h1>
+    <p class="meta-line"><strong>Instructor:</strong> Aidan Rickert &nbsp;&nbsp; <strong>Lecture:</strong> 8-10PM Tu, Cory 125</p>
+  </div>
+  <img class="hero-logo" src="{{ '/assets/images/ape.png' | relative_url }}" alt="APE logo">
+</div>
 <!-- {:.no_toc} -->
 
 {%- if site.under_construction -%}
@@ -28,8 +35,6 @@ If you're currently on the waitlist, or have any other course-related logistics 
 This website contains materials from a past semester. Information, assignments, and announcements may no longer be relevant. Please refer to the <a href="https://template.cs161.org">current semester's site</a> for up-to-date content.
 </p>
 {%- endif -%}
-
-**Lecture:** 8-10PM Tu, Cory 125
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>

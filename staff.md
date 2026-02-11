@@ -9,8 +9,15 @@ description: A listing of all the course staff members.
 
 ## Director
 
-{% assign instructors = site.staffers | where: 'role', 'Director' %}
-{% for staffer in instructors %}
+{% assign directors = site.staffers | where: 'role', 'Director' %}
+{% for staffer in directors %}
+{{ staffer }}
+{% endfor %}
+
+## Software Lead
+
+{% assign swleads = site.staffers | where: 'role', 'Software Lead' %}
+{% for staffer in swleads %}
 {{ staffer }}
 {% endfor %}
 
