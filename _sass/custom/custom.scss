@@ -308,6 +308,29 @@ h2.text-delta + ul a, #markdown-toc a {
   }
 }
 
+// Display site title text next to logo
+.site-title {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex-wrap: nowrap !important;
+  gap: 0;
+  white-space: nowrap;
+  
+  .site-title-text {
+    margin-left: 8px; // Small gap between icon and text
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 // Slightly larger favicon hint (browsers will pick best size)
 link[rel="icon"] {
   width: 64px;

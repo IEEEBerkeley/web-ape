@@ -131,7 +131,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>4</strong> <br> 
-        9/23
+        2/17
     </td>
     <td style="text-align: left;">
         <strong>Everything on this row and below is a lie and not updated!
@@ -145,14 +145,14 @@ This website contains materials from a past semester. Information, assignments, 
         <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Power Regulator Circuitry Design and Simulation</a>
     </td>
     <td>
-        Digital Communication and Signal Integrity
+        Lab 3 checkoff due 2/17
     </td>
     <td>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>5</strong> <br> 
-        9/30
+        2/24
     </td>
     <td style="text-align: left;">
         <strong> Advanced Schematic to Layout: High Power design and Thermal Management</strong><br><br>
@@ -176,7 +176,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>6</strong> <br> 
-        10/7
+        3/3
     </td>
     <td style="text-align: left; line-height: 30px;">
         <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
@@ -201,7 +201,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>7</strong> <br> 
-        10/14
+        3/10
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design
@@ -226,7 +226,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>8</strong> <br> 
-        10/21
+        3/17
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design 2</strong><br><br>
@@ -249,7 +249,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>9</strong> <br> 
-       10/28
+        3/24
     </td>
     <td style="text-align: left;">
         <strong> Project Work Session
@@ -270,7 +270,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>10</strong> <br> 
-        11/4
+        3/31
     </td>
     <td style="text-align: left;">
         <strong>Design Reviews</strong><br><br>
@@ -290,7 +290,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>11</strong> <br> 
-       11/11
+        4/7
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -310,7 +310,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>12</strong> <br> 
-        11/18
+        4/14
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -330,7 +330,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>13</strong> <br> 
-        12/9
+        4/21
     </td>
     <td style="text-align: left;">
         <strong>Project Presentations</strong>
