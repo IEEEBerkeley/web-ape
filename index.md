@@ -140,9 +140,14 @@ This website contains materials from a past semester. Information, assignments, 
         
     </td>
     <td>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 4: Advanced Schmatics High Power Design</a>
+            </li>
+        </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Power Regulator Circuitry Design and Simulation</a>
+        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
     </td>
     <td>
         Lab 3 checkoff due 2/17
