@@ -184,7 +184,6 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
     </td>
     <td>
-<a href="http://berkie.ee/ape-fa25-proj-proposal" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
