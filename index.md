@@ -153,7 +153,14 @@ This website contains materials from a past semester. Information, assignments, 
         Lab 3 checkoff due 2/17
     </td>
     <td>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqfbmsdPz6GaCUTS8EzZ5HZNTBo_bfcICP816pk1ucZN9aUQ/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqfbmsdPz6GaCUTS8EzZ5HZNTBo_bfcICP816pk1ucZN9aUQ/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
+            </li>
+            <li>
+                <a href="https://docs.google.com/document/d/14fG8E508X6ri6Ge5I8d6S_j9bk7W6Jn73CtZHWfm0BA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">APE final proj spec v3</a>
+            </li>
+        </ul>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
