@@ -134,7 +134,7 @@ This website contains materials from a past semester. Information, assignments, 
         2/17
     </td>
     <td style="text-align: left;">
-        <strong>Everything on this row and below is a lie and not updated!
+        <strong>Analog/Digital Interface and Intro to Power
 </strong><br><br>
         Understanding key principles to develop systems designed to accomodate high power draws. 
         
@@ -153,6 +153,7 @@ This website contains materials from a past semester. Information, assignments, 
         Lab 3 checkoff due 2/17
     </td>
     <td>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqfbmsdPz6GaCUTS8EzZ5HZNTBo_bfcICP816pk1ucZN9aUQ/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
