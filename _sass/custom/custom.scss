@@ -428,6 +428,250 @@ link[rel="icon"] {
   }
 }
 
+// ===== ENGINEERING AESTHETIC: CIRCUIT LINES & TECHNICAL STYLING =====
+
+// Enhanced horizontal dividers with circuit-like nodes
+hr {
+  position: relative;
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, 
+    transparent 0%, 
+    rgba(100, 120, 150, 0.2) 10%, 
+    rgba(100, 120, 150, 0.3) 50%, 
+    rgba(100, 120, 150, 0.2) 90%, 
+    transparent 100%);
+  margin: 2rem 0;
+  
+  &::before, &::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    background: rgba(100, 120, 150, 0.4);
+    border: 1px solid rgba(100, 120, 150, 0.3);
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  &::before {
+    left: 10%;
+  }
+  
+  &::after {
+    right: 10%;
+  }
+}
+
+// Section headers without accent bars
+
+// Page title gradient underline (main page only)
+.page-title {
+  position: relative;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg,
+      rgba(67, 123, 226, 0.6) 0%,
+      rgba(67, 123, 226, 0.3) 50%,
+      transparent 100%);
+  }
+}
+
+// Technical card styling with subtle borders
+.main-content {
+  blockquote, 
+  pre,
+  .highlight {
+    position: relative;
+    border-left: 2px solid rgba(67, 123, 226, 0.25);
+    padding-left: 1.2rem;
+    
+    &::before {
+      content: '';
+      position: absolute;
+      left: -3px;
+      top: -2px;
+      width: 6px;
+      height: 6px;
+      background: rgba(67, 123, 226, 0.4);
+      border-radius: 50%;
+      box-shadow: 0 0 4px rgba(67, 123, 226, 0.3);
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      left: -3px;
+      bottom: -2px;
+      width: 6px;
+      height: 6px;
+      background: rgba(67, 123, 226, 0.4);
+      border-radius: 50%;
+      box-shadow: 0 0 4px rgba(67, 123, 226, 0.3);
+    }
+  }
+}
+
+// Table enhancements with technical grid aesthetic
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid rgba(100, 120, 150, 0.15);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  
+  thead {
+    background: linear-gradient(180deg, 
+      rgba(100, 120, 150, 0.04) 0%, 
+      rgba(100, 120, 150, 0.08) 100%);
+    border-bottom: 2px solid rgba(100, 120, 150, 0.2);
+  }
+  
+  th {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.85em;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(90deg, 
+        transparent 0%, 
+        rgba(67, 123, 226, 0.3) 50%, 
+        transparent 100%);
+    }
+  }
+  
+  tbody tr {
+    transition: background-color 0.15s ease;
+    
+    &:hover {
+      background-color: rgba(67, 123, 226, 0.03);
+    }
+  }
+}
+
+// Page headers without decorations
+
+// Code blocks with circuit aesthetic
+.main-content pre {
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  
+  code {
+    border-radius: 6px;
+  }
+}
+
+// Inline code with subtle circuit tint
+.main-content code:not(pre code) {
+  background: rgba(67, 123, 226, 0.06);
+  border: 1px solid rgba(67, 123, 226, 0.15);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+// Callout boxes with circuit node decorations
+.main-content {
+  > div[class*="callout"],
+  > blockquote {
+    position: relative;
+    padding: 1rem 1rem 1rem 2.5rem;
+    margin: 1.5rem 0;
+    border-radius: 6px;
+    background: rgba(67, 123, 226, 0.03);
+    border-left: 3px solid rgba(67, 123, 226, 0.4);
+    
+    &::before {
+      content: '';
+      position: absolute;
+      left: 12px;
+      top: 1rem;
+      width: 8px;
+      height: 8px;
+      background: rgba(67, 123, 226, 0.5);
+      border-radius: 50%;
+      box-shadow: 
+        0 0 0 2px rgba(67, 123, 226, 0.15),
+        0 0 6px rgba(67, 123, 226, 0.3);
+    }
+    
+    p:first-child {
+      margin-top: 0;
+    }
+    
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Add circuit icons to specific sections
+// Labs section gets a chip icon
+.main-content h2:has(+ :is(ul, ol) a[href*="lab"]),
+h1:has(a[href*="lab"]) {
+  &::after {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect x='8' y='8' width='8' height='8' fill='none' stroke='%234B7BE2' stroke-width='1.5' rx='1'/%3E%3Ccircle cx='12' cy='12' r='1.5' fill='%234B7BE2' opacity='0.6'/%3E%3C/svg%3E") center/contain no-repeat;
+    opacity: 0.5;
+  }
+}
+
+// Resources and docs get a circuit pattern
+.main-content h2:has(+ :is(ul, ol) a[href*="resource"]),
+h1[id*="resource"] {
+  position: relative;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cline x1='4' y1='12' x2='9' y2='12' stroke='%234B7BE2' stroke-width='2' opacity='0.4'/%3E%3Ccircle cx='9' cy='12' r='2' fill='%234B7BE2' opacity='0.5'/%3E%3Cline x1='9' y1='12' x2='15' y2='12' stroke='%234B7BE2' stroke-width='2' opacity='0.4'/%3E%3Ccircle cx='15' cy='12' r='2' fill='%234B7BE2' opacity='0.5'/%3E%3Cline x1='15' y1='12' x2='20' y2='12' stroke='%234B7BE2' stroke-width='2' opacity='0.4'/%3E%3C/svg%3E") center/contain no-repeat;
+    opacity: 0.4;
+  }
+}
+
+// Subtle circuit pattern decoration in site header
+.site-header {
+  position: relative;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='2' fill='%234B7BE2' opacity='0.2'/%3E%3Cline x1='12' y1='6' x2='12' y2='10' stroke='%234B7BE2' stroke-width='1' opacity='0.2'/%3E%3Cline x1='12' y1='14' x2='12' y2='18' stroke='%234B7BE2' stroke-width='1' opacity='0.2'/%3E%3Cline x1='6' y1='12' x2='10' y2='12' stroke='%234B7BE2' stroke-width='1' opacity='0.2'/%3E%3Cline x1='14' y1='12' x2='18' y2='12' stroke='%234B7BE2' stroke-width='1' opacity='0.2'/%3E%3C/svg%3E") center/contain no-repeat;
+    opacity: 0.3;
+    pointer-events: none;
+  }
+}
+
 // Dark mode adjustments for timeline and hero
 [data-theme="dark"] {
   #timeline {
@@ -458,5 +702,77 @@ link[rel="icon"] {
   .lab-button:hover {
     box-shadow: 0 12px 24px rgba(0,0,0,0.45);
     border-color: rgba(255,255,255,0.15);
+  }
+  
+  // Dark mode engineering aesthetics
+  hr {
+    background: linear-gradient(90deg, 
+      transparent 0%, 
+      rgba(150, 170, 200, 0.15) 10%, 
+      rgba(150, 170, 200, 0.25) 50%, 
+      rgba(150, 170, 200, 0.15) 90%, 
+      transparent 100%);
+    
+    &::before, &::after {
+      background: rgba(150, 170, 200, 0.5);
+      border-color: rgba(150, 170, 200, 0.4);
+    }
+  }
+  
+  .main-content {
+    blockquote, 
+    pre,
+    .highlight {
+      border-left-color: rgba(88, 140, 255, 0.35);
+      
+      &::before, &::after {
+        background: rgba(88, 140, 255, 0.5);
+        box-shadow: 0 0 6px rgba(88, 140, 255, 0.4);
+      }
+    }
+    
+    > div[class*="callout"],
+    > blockquote {
+      background: rgba(88, 140, 255, 0.06);
+      border-left-color: rgba(88, 140, 255, 0.5);
+      
+      &::before {
+        background: rgba(88, 140, 255, 0.6);
+        box-shadow: 
+          0 0 0 2px rgba(88, 140, 255, 0.2),
+          0 0 8px rgba(88, 140, 255, 0.4);
+      }
+    }
+    
+    code:not(pre code) {
+      background: rgba(88, 140, 255, 0.1);
+      border-color: rgba(88, 140, 255, 0.2);
+    }
+  }
+  
+  .page-title::after {
+    background: linear-gradient(90deg,
+      rgba(88, 140, 255, 0.7) 0%,
+      rgba(88, 140, 255, 0.4) 50%,
+      transparent 100%);
+  }
+  
+  table {
+    border-color: rgba(150, 170, 200, 0.2);
+    
+    thead {
+      background: linear-gradient(180deg, 
+        rgba(150, 170, 200, 0.06) 0%, 
+        rgba(150, 170, 200, 0.12) 100%);
+      border-bottom-color: rgba(150, 170, 200, 0.25);
+    }
+    
+    tbody tr:hover {
+      background-color: rgba(88, 140, 255, 0.08);
+    }
+  }
+  
+  .site-header::after {
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='2' fill='%2358BCFF' opacity='0.3'/%3E%3Cline x1='12' y1='6' x2='12' y2='10' stroke='%2358BCFF' stroke-width='1' opacity='0.3'/%3E%3Cline x1='12' y1='14' x2='12' y2='18' stroke='%2358BCFF' stroke-width='1' opacity='0.3'/%3E%3Cline x1='6' y1='12' x2='10' y2='12' stroke='%2358BCFF' stroke-width='1' opacity='0.3'/%3E%3Cline x1='14' y1='12' x2='18' y2='12' stroke='%2358BCFF' stroke-width='1' opacity='0.3'/%3E%3C/svg%3E") center/contain no-repeat;
   }
 }

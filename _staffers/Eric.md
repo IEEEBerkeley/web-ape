@@ -4,6 +4,6 @@ role: Software Lead
 photo: Eric.jpg
 ---
 
-Leading software for APE.
+Leading software for APE, EECS.
 
 [Add me on LinkedIn](https://www.linkedin.com/in/eric-catalano/){: target="_blank" rel="noopener" }

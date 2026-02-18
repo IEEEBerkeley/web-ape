@@ -4,4 +4,4 @@ role: Instructor
 photo: Rohith.jpg
 ---
 
-just rohith🥀🥀🥀🥀🥀🥀
+just rohith, EECS 2nd Year🥀🥀🥀🥀🥀🥀
