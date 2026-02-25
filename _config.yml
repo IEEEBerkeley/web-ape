@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Advanced PCB Engineering
+title: APE SP26
 description: Advanced PCB Engineering at UC Berkeley IEEE Student Branch
 url: 'https://ieee.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
@@ -36,11 +36,14 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+logo: "/assets/images/ape.png"
+logo_alt: "Advanced PCB Engineering logo"
+favicon_ico: "/assets/images/ape.png"
 aux_links:
   Dark Mode:
     - '#'
   Lab Checkoff:
-    - 'http://berkie.ee/ape-fa25-lab-checkoff'
+    - 'https://forms.gle/fMunFdcirWN3AnHL8'
   Lab Resources:
     - 'https://drive.google.com/drive/folders/1p97kdv7-6Jbum-YiwUoHo9PsbTBzvS1a?usp=sharing&ref=ieee.berkeley.edu'
   Berkeley IEEE:
@@ -109,7 +112,7 @@ enable_copy_code_button: true
 
 # CS 188 custom config variable
 # Set this to true at the start of semesters to show a warning on the homepage
-under_construction: true
+under_construction: false
 
 # Set this to true to show a warning telling people on the waitlist to check FAQs
 waitlist_warning: false

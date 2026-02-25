@@ -6,9 +6,16 @@ permalink: /:path/
 seo:
   type: Course
   name: Berkeley IEEE APE
+
 ---
 
-# Advanced PCB Engineering (APE) [Spring 2026]
+<div class="hero-header">
+  <div class="hero-text">
+    <h1 class="page-title">Advanced PCB Engineering (APE) – Spring 2026</h1>
+    <p class="meta-line"><strong>Instructor:</strong> Aidan Rickert &nbsp;&nbsp; <strong>Lecture:</strong> 8-10PM Tu, Cory 125</p>
+  </div>
+  <img class="hero-logo" src="{{ '/assets/images/ape.png' | relative_url }}" alt="APE logo">
+</div>
 <!-- {:.no_toc} -->
 
 {%- if site.under_construction -%}
@@ -28,8 +35,6 @@ If you're currently on the waitlist, or have any other course-related logistics 
 This website contains materials from a past semester. Information, assignments, and announcements may no longer be relevant. Please refer to the <a href="https://template.cs161.org">current semester's site</a> for up-to-date content.
 </p>
 {%- endif -%}
-
-**Lecture:** 8-10PM Tu, Cory 125
 
 <table id="timeline" style="line-height: normal;">
     <tbody><tr>
@@ -126,28 +131,41 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>4</strong> <br> 
-        9/23
+        2/17
     </td>
     <td style="text-align: left;">
-        <strong>Everything on this row and below is a lie and not updated!
+        <strong>Analog/Digital Interface and Intro to Power
 </strong><br><br>
         Understanding key principles to develop systems designed to accomodate high power draws. 
         
     </td>
     <td>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 4: Advanced Schmatics High Power Design</a>
+            </li>
+        </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/presentation/d/16KEnmBfNRSl6A1tmkhhHGiFTQUrmhDXW08lxEhzbhAE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Power Regulator Circuitry Design and Simulation</a>
+        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
     </td>
     <td>
-        Digital Communication and Signal Integrity
+        Lab 3 checkoff due 2/17
     </td>
     <td>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqfbmsdPz6GaCUTS8EzZ5HZNTBo_bfcICP816pk1ucZN9aUQ/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
+            </li>
+            <li>
+                <a href="https://docs.google.com/document/d/14fG8E508X6ri6Ge5I8d6S_j9bk7W6Jn73CtZHWfm0BA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">APE final proj spec v3</a>
+            </li>
+        </ul>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>5</strong> <br> 
-        9/30
+        2/24
     </td>
     <td style="text-align: left;">
         <strong> Digital Design, Data Buses and Protocols</strong><br><br>
@@ -166,12 +184,11 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
     </td>
     <td>
-<a href="http://berkie.ee/ape-fa25-proj-proposal" target="_blank" rel="noopener noreferrer">Project Proposal Due</a> 
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>6</strong> <br> 
-        10/7
+        3/3
     </td>
     <td style="text-align: left; line-height: 30px;">
         <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
@@ -196,7 +213,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>7</strong> <br> 
-        10/14
+        3/10
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design
@@ -221,7 +238,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>8</strong> <br> 
-        10/21
+        3/17
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design 2</strong><br><br>
@@ -244,7 +261,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>9</strong> <br> 
-       10/28
+        3/24
     </td>
     <td style="text-align: left;">
         <strong> Project Work Session
@@ -265,7 +282,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>10</strong> <br> 
-        11/4
+        3/31
     </td>
     <td style="text-align: left;">
         <strong>Design Reviews</strong><br><br>
@@ -285,7 +302,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>11</strong> <br> 
-       11/11
+        4/7
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -305,7 +322,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>12</strong> <br> 
-        11/18
+        4/14
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -325,7 +342,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>13</strong> <br> 
-        12/9
+        4/21
     </td>
     <td style="text-align: left;">
         <strong>Project Presentations</strong>

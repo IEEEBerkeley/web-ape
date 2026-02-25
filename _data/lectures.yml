@@ -72,3 +72,5 @@ lectures:
       - textbook: '3'
         link: https://textbook.cs161.org/memory-safety/vulnerabilities.html
   - title: "Extra Lecture (Example)"
+  - title: "Advanced Schematics, Digital Design, Data Buses and Protocols"
+    slides: "https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing"
