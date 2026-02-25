@@ -13,6 +13,8 @@ To be added!
 
 ## Course Links
 
+[Discord Server](https://discord.gg/hxGC4vd4N2)
+
 [Lab Checkoff Form](https://docs.google.com/forms/d/e/1FAIpQLSeF2P5xqKH3bGkGDx8IrDKbCSIrAqCS4642FPrmoUBKTeentQ/viewform)
 
 ## Other Forms

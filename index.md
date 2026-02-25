@@ -202,7 +202,6 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-		Continue High Power Design and Thermal Management
     </td>
     <td>
         
@@ -230,10 +229,9 @@ This website contains materials from a past semester. Information, assignments, 
     <td class="lab">
     </td>
     <td>
-        High Power Design and Thermal Management
     </td>
     <td>
-        Project BOM &amp; Schematic Due [TBD]
+        Schematic Due
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
