@@ -150,18 +150,18 @@ This website contains materials from a past semester. Information, assignments, 
         9/30
     </td>
     <td style="text-align: left;">
-        <strong> Advanced Schematic to Layout: High Power design and Thermal Management</strong><br><br>
-        Designing layouts optimized for high-voltage and high-current applications. Develop understanding of thermal implications of high-power designs and best practices to mitigate them. 
+        <strong> Digital Design, Data Buses and Protocols</strong><br><br>
+        Digital design fundamentalals, focusing on data buses and their implementations and differences 
     </td>
     <td>
          <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1k7tmrHcrFgW7kixzW11JC486pO7Q-0EGscT4Pxq_YdQ/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Lecture 5 Slides</a>
+                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 5 Slides</a>
              </li>
         </ul>
     </td>
     <td class="lab">
-        Continue Power Regulator Circuitry Design and Simulation
+        Work on project + catch up on labs
     </td>
     <td>
     </td>
