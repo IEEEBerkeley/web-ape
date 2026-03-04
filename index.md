@@ -202,9 +202,10 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
+        <a href="/labs/lab5/" target="_blank" rel="noopener noreferrer">Lab 5: Advanced Layout and Via Management</a>
     </td>
     <td>
-        
+        Lab 4: Power Electronics
     </td>
     <td>
         Proposal Review
@@ -354,3 +355,62 @@ Project Design Review in Class<br>
     <td>
     </td>
 </tr><!--kg-card-end: html--></tbody></table>
+
+<script>
+// EASY TOGGLE: Set to false to disable the random troll feature
+const ENABLE_RANDOM_TROLLS = true;
+
+if (ENABLE_RANDOM_TROLLS) {
+  window.addEventListener('DOMContentLoaded', function() {
+    
+    function createRandomTroll() {
+      const troll = document.createElement('img');
+      troll.src = '/assets/images/troll.png';
+      
+      // Random size between 50px and 400px
+      const size = Math.random() * 350 + 50;
+      troll.style.width = size + 'px';
+      troll.style.height = 'auto';
+      
+      // Random position
+      troll.style.position = 'fixed';
+      troll.style.left = Math.random() * (window.innerWidth - size) + 'px';
+      troll.style.top = Math.random() * (window.innerHeight - size) + 'px';
+      troll.style.zIndex = '9998';
+      troll.style.pointerEvents = 'none';
+      troll.style.opacity = '0';
+      troll.style.transition = 'opacity 2s ease-in-out';
+      
+      document.body.appendChild(troll);
+      
+      // Fade in
+      setTimeout(() => {
+        troll.style.opacity = Math.random() * 0.5 + 0.3; // Random opacity between 0.3 and 0.8
+      }, 100);
+      
+      // Random duration to stay visible (2-6 seconds)
+      const stayDuration = Math.random() * 4000 + 2000;
+      
+      // Fade out and remove
+      setTimeout(() => {
+        troll.style.opacity = '0';
+        setTimeout(() => {
+          document.body.removeChild(troll);
+        }, 2000);
+      }, stayDuration);
+    }
+    
+    // Create trolls at random intervals
+    function startTrollSpawning() {
+      createRandomTroll();
+      
+      // Random interval between 1-4 seconds
+      const nextSpawn = Math.random() * 3000 + 1000;
+      setTimeout(startTrollSpawning, nextSpawn);
+    }
+    
+    // Start spawning trolls after a short delay
+    setTimeout(startTrollSpawning, 1000);
+  });
+}
+</script>

@@ -9,4 +9,4 @@ nav_order: 4
 
 Overview: Power electronics design and simulation.
 
-Due date: 3/3
+Due date: 2/17
