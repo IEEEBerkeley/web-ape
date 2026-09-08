@@ -11,7 +11,7 @@ seo:
 
 <div class="hero-header">
   <div class="hero-text">
-    <h1 class="page-title">Advanced PCB Engineering (APE) – Spring 2026</h1>
+    <h1 class="page-title">Advanced PCB Engineering (APE) – Fall 2026</h1>
     <p class="meta-line"><strong>Instructor:</strong> Aidan Rickert &nbsp;&nbsp; <strong>Lecture:</strong> 8-10PM Tu, Cory 125</p>
   </div>
   <img class="hero-logo" src="{{ '/assets/images/ape.png' | relative_url }}" alt="APE logo">
@@ -47,7 +47,7 @@ This website contains materials from a past semester. Information, assignments, 
     </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>1</strong> <br> 
-        1/27
+        9/8
     </td>
     
     <td style="text-align: left;">
@@ -76,7 +76,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr>                                      <!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>2</strong> <br> 
-        2/3
+        9/15
     </td>
     <td style="text-align: left;">
         <strong>PCB Parasitics and Noise
@@ -105,7 +105,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>3</strong> <br> 
-        2/10
+        9/22
     </td>
     <td style="text-align: left;">
                <strong>Intro to Analog Design
@@ -131,7 +131,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>4</strong> <br> 
-        2/17
+        9/29
     </td>
     <td style="text-align: left;">
         <strong>Analog/Digital Interface and Intro to Power
@@ -150,7 +150,7 @@ This website contains materials from a past semester. Information, assignments, 
         <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
     </td>
     <td>
-        Lab 3 checkoff due 2/17
+        Lab 3 checkoff due 9/29
     </td>
     <td>
         <ul>
@@ -165,7 +165,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>5</strong> <br> 
-        3/18
+        10/6
     </td>
     <td style="text-align: left;">
         <strong>Lecture 7: Advanced Digital Layout and Via Management</strong><br><br>
@@ -188,7 +188,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>6</strong> <br> 
-        3/3
+        10/13
     </td>
     <td style="text-align: left; line-height: 30px;">
         <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
@@ -213,7 +213,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>7</strong> <br> 
-        3/10
+        10/20
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design
@@ -237,7 +237,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>8</strong> <br> 
-        3/17
+        10/27
     </td>
     <td style="text-align: left;">
         <strong>Advanced Layout + RF Design 2</strong><br><br>
@@ -260,7 +260,7 @@ This website contains materials from a past semester. Information, assignments, 
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>9</strong> <br> 
-        3/24
+        11/3
     </td>
     <td style="text-align: left;">
         <strong> Project Work Session
@@ -281,7 +281,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>10</strong> <br> 
-        3/31
+        11/10
     </td>
     <td style="text-align: left;">
         <strong>Design Reviews</strong><br><br>
@@ -296,12 +296,12 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td>
-        <strong>FINAL PCB files due [11/4] (Tuesday)</strong>
+        <strong>FINAL PCB files due [11/3] (Tuesday)</strong>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
         <strong>11</strong> <br> 
-        4/7
+        11/17
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -321,7 +321,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>12</strong> <br> 
-        4/14
+        11/24
     </td>
     <td style="text-align: left;">
         <strong>TBD</strong><br><br>
@@ -341,7 +341,7 @@ Project Design Review in Class<br>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
         <strong>13</strong> <br> 
-        4/21
+        12/1
     </td>
     <td style="text-align: left;">
         <strong>Project Presentations</strong>
