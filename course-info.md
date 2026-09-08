@@ -9,15 +9,15 @@ description: Course policies and information.
 
 APE introduces advanced printed circuit board (PCB) design and layout, with a focus on more complex considerations and more nuanced experience with standard tools than the introductory Hands-On PCB Engineering (HOPE) course. It is intended for students with previous PCB design experience (preferably HOPE) and some basic experience with upper division-level circuit design. Students will utilize Altium Designer alongside supporting software and plugins to aid in design and verification of PCBs. Students interested in developing PCBs for class projects, research, or engineering student teams will benefit from this course.
 
-You can find the syllabus [HERE](https://docs.google.com/document/d/1OmuT0KNtPcCBOl_wxE3xbWQctL8guNKrCQKkM4Mp_VY/edit?usp=sharing)
+You can find the syllabus [HERE](https://docs.google.com/document/d/1g17_RTrpjp9JU9GmhvGsqMCEXfkNBUk1m4inKf3MzuI/edit?usp=sharing)
 
 ### Enrolling in APE
 
-Students who are interested in signing up for APE in Spring 2026 should email [ape@ieee.berkeley.edu](ape@ieee.berkeley.edu)
+Students who are interested in signing up for APE in Fall 2026 should email [ape@ieee.berkeley.edu](ape@ieee.berkeley.edu)
 
 Please also email us if you are a concurrent enrollment student- we prioritize matriculated UC Berkeley students. Space permitting, however, concurrent enrollment students are welcome to take APE.
 
-The first day of class will be 1/27.
+The first day of class will be 9/8.
 
 We offer APE as an in-person class. We have a single section on Tuesday in Cory 125 from 8-10 PM. 
 
