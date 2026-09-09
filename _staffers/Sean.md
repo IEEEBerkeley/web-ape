@@ -1,7 +1,7 @@
 ---
 name: Sean Donelan
 role: Instructor
-photo: aidan_rickert.webp
+photo: sean_donelan.webp
 ---
 
-Description
+3rd year EECS, RF/MS, Hi-Rel, Manufacturing & Design Communication
