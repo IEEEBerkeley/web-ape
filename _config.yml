@@ -42,6 +42,8 @@ favicon_ico: "/assets/images/ape.png"
 aux_links:
   Dark Mode:
     - '#'
+  Extensions:
+    - 'https://forms.gle/iNLK7joiWFfJzh1B7'
   Lab Checkoff:
     - 'https://forms.gle/PRfrcPFZB4REhpGa7'
   Lab Resources:
