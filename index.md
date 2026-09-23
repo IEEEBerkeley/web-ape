@@ -123,6 +123,11 @@ This website contains materials from a past semester. Information, assignments, 
     <td class="lab">
         <a href="https://docs.google.com/document/d/1nbIc_AhKubVGqOqluoBLX2Qj4CzxwDuMh-qYmmRvfmo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 3: Simulating Analog Filters</a>
     </td>
+        <ul>
+            <li>
+                <a href="https://forms.gle/8T1pf5gvoYsyVTZU9" target="_blank" rel="noopener noreferrer">Project Group Form Due</a>
+            </li>
+        </ul>
     <td>
         Lab 2: Introduction to Altium Layout
     </td>
