@@ -155,7 +155,7 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqfbmsdPz6GaCUTS8EzZ5HZNTBo_bfcICP816pk1ucZN9aUQ/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
+                <a href="https://forms.gle/L7r93TCUTzggfT3e6" target="_blank" rel="noopener noreferrer">Project Proposal Due</a>
             </li>
             <li>
                 <a href="https://docs.google.com/document/d/14fG8E508X6ri6Ge5I8d6S_j9bk7W6Jn73CtZHWfm0BA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">APE final proj spec v3</a>
