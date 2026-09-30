@@ -147,7 +147,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
+        No lab! Work on project proposals.
     </td>
     <td>
         Lab 3 checkoff due 9/29
@@ -179,7 +179,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        Work on project + catch up on labs
+        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics DUE 10/6</a>
     </td>
     <td>
     </td>
