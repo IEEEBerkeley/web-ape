@@ -179,7 +179,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
     </td>
     <td class="lab">
-        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics DUE 10/6</a>
+        <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
     </td>
     <td>
     </td>
@@ -205,7 +205,7 @@ This website contains materials from a past semester. Information, assignments, 
         <a href="/labs/lab5/" target="_blank" rel="noopener noreferrer">Lab 5: Advanced Layout and Via Management</a>
     </td>
     <td>
-        Lab 4: Power Electronics
+        Lab 4: Power Electronics DUE 10/13
     </td>
     <td>
         Proposal Review
