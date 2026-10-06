@@ -142,7 +142,7 @@ This website contains materials from a past semester. Information, assignments, 
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 4: Advanced Schmatics High Power Design</a>
+                <a href="https://docs.google.com/presentation/d/12ekAYLrE_DmCJJt6cWYQLPsWxLjAHLNMdJkkK65xbVg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 4: Analog/Digital Interface and Intro to Power</a>
             </li>
         </ul>
     </td>
@@ -168,13 +168,13 @@ This website contains materials from a past semester. Information, assignments, 
         10/6
     </td>
     <td style="text-align: left;">
-        <strong>Lecture 7: Advanced Digital Layout and Via Management</strong><br><br>
+        <strong>Lecture 5: Advanced Schematics, Digital Design, Data Buses and Protocols</strong><br><br>
         Advanced PCB Engineering lecture on advanced digital layout and via management.
     </td>
     <td>
          <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1_ZCl7IMLuN0Ivs6biHY56lNsjGSdFlnlNlFaaMdNc_w/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 7: Advanced Digital Layout and Via Management</a>
+                <a href="https://docs.google.com/presentation/d/16cDy7mopXpgBnwNMkBruPGN22-EBcpUTiJRQf0NGYwo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 5: Advanced Schematics, Digital Design, Data Buses and Protocols</a>
              </li>
         </ul>
     </td>
@@ -182,6 +182,9 @@ This website contains materials from a past semester. Information, assignments, 
         <a href="https://docs.google.com/document/d/1gLWDgBC8-80OGgjKct5CEF4iM2tprr0tHp0PA6IL-hA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab 4: Power Electronics</a>
     </td>
     <td>
+    <td>
+        Proposal Review
+    </td>
     </td>
     <td>
     </td>
@@ -191,24 +194,21 @@ This website contains materials from a past semester. Information, assignments, 
         10/13
     </td>
     <td style="text-align: left; line-height: 30px;">
-        <strong> Advanced Layout Digital Layout: and Via Management</strong><br><br>
+        <strong> Lecture 6: Advanced Digital Layout and Via Management</strong><br><br>
         How to route high-speed signals, differential pairs, and implications of vias, board parasitics, and other physical factors on signal integrity. 
     </td>
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1_ZCl7IMLuN0Ivs6biHY56lNsjGSdFlnlNlFaaMdNc_w/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1_ZCl7IMLuN0Ivs6biHY56lNsjGSdFlnlNlFaaMdNc_w/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 6: Advanced Digital Layout and Via Management</a>
             </li>
         </ul>
     </td>
     <td class="lab">
-        <a href="/labs/lab5/" target="_blank" rel="noopener noreferrer">Lab 5: Advanced Layout and Via Management</a>
+        <a href="/labs/lab5/" target="_blank" rel="noopener noreferrer">Lab 5: Digital Communication Protocols</a>
     </td>
     <td>
         Lab 4: Power Electronics DUE 10/13
-    </td>
-    <td>
-        Proposal Review
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
@@ -216,14 +216,14 @@ This website contains materials from a past semester. Information, assignments, 
         10/20
     </td>
     <td style="text-align: left;">
-        <strong>Advanced Layout + RF Design
+        <strong>Lecture 7: RF Circuits and Schematics 
  1</strong><br><br>
         Introduction to transmission line theory, differential pairs, impedance matching and other key topics.
     </td>
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a> 
+                <a href="https://docs.google.com/presentation/d/15Bbm262jhK_l4-DY8lt9SnrdCSQd0dh-rHSWeHiYOhM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 7: RF Circuits and Schematics</a> 
             </li>
         </ul>
     </td>
@@ -240,13 +240,13 @@ This website contains materials from a past semester. Information, assignments, 
         10/27
     </td>
     <td style="text-align: left;">
-        <strong>Advanced Layout + RF Design 2</strong><br><br>
+        <strong>Advanced Layout RF Design </strong><br><br>
         Exploration of practical RF design. 
     </td>
     <td>
         <ul>
             <li>
-                <a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing&amp;ref=ieee.berkeley.edu" target="_blank" rel="noopener noreferrer">Slides</a>
+                <a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Advanced Layout RF Design</a>
             </li>
         </ul>
     </td>
@@ -276,7 +276,7 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td>
-        <b>Layout Due 11/4</b>
+        <b>Layout Due 11/3</b>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td class="week">
@@ -304,8 +304,19 @@ Project Design Review in Class<br>
         11/17
     </td>
     <td style="text-align: left;">
-        <strong>TBD</strong><br><br>
-        <br><br>
+        <strong>Lecture 11: 
+Advanced Mechanical Design Constraint and Weight-Based Design
+ </strong><br><br>
+    </td>
+    <td>
+        <ul>
+            <li>
+                <a href="https://docs.google.com/presentation/d/1jQytY2FV7XKv-XxSfWle1sIAPW4L4BjP4bUtwZaFObs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 11: 
+Advanced Mechanical Design Constraint and Weight-Based Design
+</a>
+            </li>
+        </ul>
+    </td>
         
     </td>
     <td>
