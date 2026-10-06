@@ -168,7 +168,7 @@ This website contains materials from a past semester. Information, assignments, 
         10/6
     </td>
     <td style="text-align: left;">
-        <strong>Lecture 5: Advanced Schematics, Digital Design, Data Buses and Protocols</strong><br><br>
+        <strong>Advanced Schematics, Digital Design, Data Buses and Protocols</strong><br><br>
         Advanced PCB Engineering lecture on advanced digital layout and via management.
     </td>
     <td>
@@ -194,7 +194,7 @@ This website contains materials from a past semester. Information, assignments, 
         10/13
     </td>
     <td style="text-align: left; line-height: 30px;">
-        <strong> Lecture 6: Advanced Digital Layout and Via Management</strong><br><br>
+        <strong> Advanced Digital Layout and Via Management</strong><br><br>
         How to route high-speed signals, differential pairs, and implications of vias, board parasitics, and other physical factors on signal integrity. 
     </td>
     <td>
@@ -216,7 +216,7 @@ This website contains materials from a past semester. Information, assignments, 
         10/20
     </td>
     <td style="text-align: left;">
-        <strong>Lecture 7: RF Circuits and Schematics 
+        <strong>RF Circuits and Schematics 
  1</strong><br><br>
         Introduction to transmission line theory, differential pairs, impedance matching and other key topics.
     </td>
@@ -296,7 +296,7 @@ Project Design Review in Class<br>
     <td>
     </td>
     <td>
-        <strong>FINAL PCB files due [11/3] (Tuesday)</strong>
+        <strong>FINAL PCB files due [11/10] (Tuesday)</strong>
     </td>
 </tr><!--kg-card-end: html--><!--kg-card-begin: html--><tr>
     <td style="border-right: 1px solid; text-align:center;">
@@ -304,8 +304,7 @@ Project Design Review in Class<br>
         11/17
     </td>
     <td style="text-align: left;">
-        <strong>Lecture 11: 
-Advanced Mechanical Design Constraint and Weight-Based Design
+        <strong>Advanced Mechanical Design Constraint and Weight-Based Design
  </strong><br><br>
     </td>
     <td>
