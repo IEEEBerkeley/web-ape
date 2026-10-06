@@ -177,7 +177,7 @@ This website contains materials from a past semester. Information, assignments, 
       </td>
       <td>
         <ul>
-          <li><a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Advanced Layout RF Design</a></li>
+          <li><a href="https://docs.google.com/presentation/d/1wfB92NZHR5C4MOTNtGm4uC0snu0_gWOsi7coW5qw6wc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lecture 8: Advanced Layout RF Design</a></li>
         </ul>
       </td>
       <td class="lab"></td>
@@ -189,9 +189,6 @@ This website contains materials from a past semester. Information, assignments, 
       <td style="text-align: left;">
         <strong>Project Work Session</strong><br><br>
       </td>
-      <td></td>
-      <td class="lab">Project Design Review in Class</td>
-      <td></td>
       <td><b>Layout Due 11/3</b></td>
     </tr>
     <tr>
@@ -201,7 +198,7 @@ This website contains materials from a past semester. Information, assignments, 
         In-class review of APE student projects<br><br>
       </td>
       <td></td>
-      <td class="lab"></td>
+      <td class="lab">Project Design Review in Class</td>
       <td></td>
       <td><strong>FINAL PCB files due [11/10] (Tuesday)</strong></td>
     </tr>
