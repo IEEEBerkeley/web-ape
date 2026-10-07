@@ -166,6 +166,7 @@ This website contains materials from a past semester. Information, assignments, 
         </ul>
       </td>
       <td class="lab"></td>
+      <td>Lab 5: Digital Communication Protocols DUE 10/20</td>
       <td></td>
       <td>Schematic Due</td>
     </tr>
